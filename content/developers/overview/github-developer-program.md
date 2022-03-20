@@ -15,10 +15,12 @@ Building an application that integrates with GitHub? Register for our Developer 
 ## Stay in the know
 
 Be the first to know about API changes and try out new features before they launch in the [Developer blog](https://developer.github.com/changes/).
+Be the first to know about other tech information and try out the tech told by the top notch programmer across the world befroe the launch in the link given above.
 
 ## Scratch an itch
 
 Build your own tools that seamlessly integrate with the place you push code every day.
+And do make sure you contribute and commit your codes everyday in github because that shows your consistency.
 
 ## Take on the enterprise
 
